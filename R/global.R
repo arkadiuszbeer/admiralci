@@ -32,6 +32,7 @@ globalVariables(c(
   "EXTRT",
   "FAGRPID",
   "FASTRESC",
+  
   "FAREFID",
   "FATESTCD",
   "IDVAR",
